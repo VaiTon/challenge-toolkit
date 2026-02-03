@@ -3,7 +3,7 @@ name = "challenge-toolkit"
 version = "0.1.0"
 description = "CTFp challenge development toolkit"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.10"
 license-files = ["LICENSE"]
 dependencies = [
   "python-slugify==8.0.4",
